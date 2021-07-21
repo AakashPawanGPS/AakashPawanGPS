@@ -9,7 +9,8 @@
 
 - 🌱 I’m currently learning **Everything**
 
-- My LinkedIn profile [https://www.linkedin.com/in/aakash-pawan-g-p-s-9b19761b5/](https://www.linkedin.com/in/aakash-pawan-g-p-s-9b19761b5/)
+- ![image](https://user-images.githubusercontent.com/70209094/126446799-38383387-dcea-4fbe-87b9-80fbdc88e11b.png)
+My LinkedIn profile [https://www.linkedin.com/in/aakash-pawan-g-p-s-9b19761b5/](https://www.linkedin.com/in/aakash-pawan-g-p-s-9b19761b5/)
 
 - 📫 How to reach me **aakashpawangps@gmail.com**
 
