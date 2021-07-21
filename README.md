@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **developing some mini-projects**
 
-- 🌱 I’m currently learning **REACT**
+- 🌱 I’m currently learning **Everything**
 
 - My LinkedIn profile [https://www.linkedin.com/in/aakash-pawan-g-p-s-9b19761b5/](https://www.linkedin.com/in/aakash-pawan-g-p-s-9b19761b5/)
 
