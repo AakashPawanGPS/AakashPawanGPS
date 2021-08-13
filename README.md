@@ -1,19 +1,21 @@
 <h1 align="center">Hi 👋, I'm Aakash Pawan</h1>
-<h3 align="center">A student who willing to develop!</h3>
+<h3 align="center">A student who willing to develop!<span><p align="right"> <img src="https://komarev.com/ghpvc/?username=aakashpawangps&label=Profile%20views&color=0e75b6&style=flat" alt="aakashpawangps" /> </p></span></h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aakashpawangps&label=Profile%20views&color=0e75b6&style=flat" alt="aakashpawangps" /> </p>
+<img src="Images/AakashPawanGPS.jpg" align="center">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aakashpawangps" alt="aakashpawangps" /></a> </p>
 
-- 🔭 I’m currently working on **developing some mini-projects**
+<img src="Images/avento.gif" width=300 align="center">
+
+- 🔭 I’m currently **developing some mini-projects**
 
 - 🌱 I’m currently learning **Full Stack Development**
 
--   My LinkedIn profile [https://www.linkedin.com/in/aakash-pawan-g-p-s-9b19761b5/](https://www.linkedin.com/in/aakash-pawan-g-p-s-9b19761b5/)
+- <img src="https://i.stack.imgur.com/gVE0j.png">  My LinkedIn profile [https://www.linkedin.com/in/aakash-pawan-g-p-s-9b19761b5/](https://www.linkedin.com/in/aakash-pawan-g-p-s-9b19761b5/)
 
 - 📫 How to reach me **aakashpawangps@gmail.com**
 
-- 📄 Know more about me :My Resume [https://drive.google.com/file/d/16Bcswx5smcMS3sAvv9sjiy4UKBO4auma/view?usp=sharing](https://drive.google.com/file/d/1bjQf6V0yizwiLr5Ioz42fqKFKdEg7VMR/view?usp=sharing)
+- 📄 Know more about me : My Resume [https://drive.google.com/file/d/16Bcswx5smcMS3sAvv9sjiy4UKBO4auma/view?usp=sharing](https://drive.google.com/file/d/1bjQf6V0yizwiLr5Ioz42fqKFKdEg7VMR/view?usp=sharing)
 
 - ⚡ Fun fact **I am funny**
 
