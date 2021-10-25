@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aakash Pawan</h1>
 <h3 align="center">A student who willing to develop!<span><p align="right"> <img src="https://komarev.com/ghpvc/?username=aakashpawangps&label=Profile%20views&color=0e75b6&style=flat" alt="aakashpawangps" /> </p></span></h3>
 
-<img src="Images/AakashPawanGPS.jpg" align="center">
+<p align="center">
+  <img src="Images/AakashPawanGPS.jpg" alt="animated" />
+</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aakashpawangps" alt="aakashpawangps" /></a> </p>
 
