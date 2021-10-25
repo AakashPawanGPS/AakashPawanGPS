@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aakashpawangps" alt="aakashpawangps" /></a> </p>
 
-<img src="Images/avento.gif" width=300 align="center">
+<img src="Images/avento.gif" align="center">
 
 - 🔭 I’m currently **developing some mini-projects**
 
