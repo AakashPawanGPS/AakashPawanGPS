@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **aakashpawangps@gmail.com**
 
-- 📄 Know more about me : [My Resume](https://drive.google.com/file/d/1bjQf6V0yizwiLr5Ioz42fqKFKdEg7VMR/view?usp=sharing)
+- 📄 Know more about me : [My Resume](https://drive.google.com/file/d/1GfYlkYwe0h27_tXhvPT2gG6Xv7S-tkHn/view?usp=sharing)
 
 - ⚡ Fun fact **I am funny**
 
